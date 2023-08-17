@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body{
+  background-color: pink;
+  color: blueviolet;
+}
+
+.uye{
+  border: 2px solid rgb(250, 250, 255);
+  margin: 0.2rem;
+  width: 50%;
+
+}
